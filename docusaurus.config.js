@@ -28,6 +28,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: 'docs',
+          path: './docs-source',
         },
         blog: false,
         theme: {
@@ -46,11 +47,6 @@ const config = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          to: '/',
-          label: 'Home',
-          position: 'left',
-        },
         {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
