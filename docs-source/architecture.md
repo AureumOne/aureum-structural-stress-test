@@ -36,3 +36,9 @@ No layer can override evidence through decision.
 No human actor can "fix" inconsistencies silently.
 
 All authority is forward-only and event-bound.
+
+## Authority vs Responsibility
+
+Architectural authority in Aureum One defines what the system can or cannot do.
+
+Legal and fiduciary responsibility remains external to the system and is not substituted or mitigated by architectural constraints.

@@ -21,6 +21,13 @@ The sole purpose of this material is to expose the architectural structure of Au
 
 This document assumes the reader is capable of identifying structural weaknesses without guidance.
 
+This document is intended to make certain architectural assumptions explicit — particularly those most systems prefer to leave unexamined.
+
+**This architecture is not optimized for efficiency, scale or economic performance.**  
+**It is optimized for failure visibility and authority containment.**
+
+Discomfort with the conclusions of this document is expected and not considered a design flaw.
+
 ---
 
 ## If you are looking for:

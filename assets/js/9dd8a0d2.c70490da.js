@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaureum_structural_stress_test=self.webpackChunkaureum_structural_stress_test||[]).push([[617],{8648(s,t,u){u.r(t),u.d(t,{default:()=>a});u(6540);var r=u(6347),e=u(4848);function a(){return(0,e.jsx)(r.rd,{to:"/aureum-structural-stress-test/docs/purpose"})}}}]);
