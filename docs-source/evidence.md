@@ -41,3 +41,9 @@ Third-party review is permitted but:
 - non-substitutive
 
 External opinion does not alter system truth.
+
+## 5.4 Action Boundary
+
+This architecture defines when action must be considered, not what action must be taken.
+
+Decisions triggered by exposed failure states remain fully external to the system.

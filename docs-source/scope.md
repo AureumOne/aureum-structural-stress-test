@@ -35,9 +35,11 @@ This document does not evaluate or represent:
 
 Absence of discussion does not imply mitigation.
 
-## 2.3 Structural Assumptions
+## 2.3 External Structural Assumptions
 
-The architecture relies on the following explicit assumptions, which are not proven by the system:
+The following assumptions define environmental conditions outside the system's authority.
+
+Their violation degrades guarantees but does not retroactively alter architectural boundaries.
 
 **S1.**  
 Physical gold custody is performed by an independent professional custodian under contract.
@@ -53,5 +55,3 @@ External price feeds reflect market reality within acceptable tolerance.
 
 **S5.**  
 Jurisdictional enforcement remains available for contractual disputes.
-
-Violation of any assumption degrades guarantees but does not retroactively alter architectural boundaries.
